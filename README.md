@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pelumi</h1>
-<h3 align="center">A talented frontend react developer from Nigeria</h3>
+<h3 align="center">A talented software developer from Nigeria</h3>
 <p>I’m looking to collaborate and work on React related Projects</>
 
 - 👨‍💻 All of my projects are available [here](https://pelumii.vercel.app/)
