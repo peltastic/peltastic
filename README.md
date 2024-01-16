@@ -2,13 +2,13 @@
 <h3 align="center">A talented software developer from Nigeria</h3>
 <p>I’m looking to collaborate and work on React related Projects</>
 
-- 👨‍💻 All of my projects are available [here](https://pelumii.vercel.app/)
+- 👨‍💻 You can Check My LinkedIn Profile [here](https://www.linkedin.com/in/pelumi-onasoga-4767081ba/)
 
 - 📝 I regularly write articles on [hashnode](https://peltastic.hashnode.dev/)
 
 - 📫 How to reach me **onasogapelumi@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NxXpHe2mnfo0wUgM75i4zfE81U9oPKtQ/view)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1NxXpHe2mnfo0wUgM75i4zfE81U9oPKtQ/view](https://drive.google.com/file/d/1CP2nW-aSg2P52dw392GP-1sXM5WBFytr/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
