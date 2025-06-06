@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **onasogapelumi@gmail.com**
 
-- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1CP2nW-aSg2P52dw392GP-1sXM5WBFytr/view?usp=sharing](https://drive.google.com/file/d/1sujFdolo_4PBs9UcCnOa_ajCiPlIy9LE/view?usp=sharing))
-
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1sujFdolo_4PBs9UcCnOa_ajCiPlIy9LE/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peltastica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peltastica" height="30" width="40" /></a>
